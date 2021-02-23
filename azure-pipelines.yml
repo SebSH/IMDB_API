@@ -41,6 +41,7 @@ steps:
       print('##vso[task.setvariable variable=projectRoot]{}'.format(project_location))
 
 - script: |
+    apt-get install python-dev 
     apt-get install python3-dev
     apt-get install libevent-dev
     python -m pip install --upgrade pip setuptools wheel
