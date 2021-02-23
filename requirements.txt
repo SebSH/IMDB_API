@@ -1,6 +1,5 @@
 alabaster
 altair
-anaconda-client
 anaconda-navigator
 anaconda-project
 argh
