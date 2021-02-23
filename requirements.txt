@@ -125,7 +125,6 @@ more-itertools
 mpmath
 msgpack
 multipledispatch
-navigator-updater
 nbclient
 nbformat 
 nest-asyncio 
