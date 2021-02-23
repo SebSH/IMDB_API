@@ -72,7 +72,6 @@ gevent
 gitdb
 GitPython
 glob2
-gmpy2
 greenlet 
 gunicorn
 h5py
