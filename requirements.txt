@@ -120,8 +120,6 @@ MarkupSafe
 matplotlib 
 mccabe
 mistune
-mkl-random
-mkl-service
 mock
 more-itertools
 mpmath
