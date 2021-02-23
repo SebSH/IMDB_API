@@ -26,7 +26,7 @@ bkcharts
 bleach 
 blinker
 bokeh 
-bot==2.49.0
+bot
 boto3
 botocore
 Bottleneck
@@ -108,11 +108,11 @@ jmespath
 joblib 
 json5
 jsonschema 
-jupyter==1.0.0
+jupyter
 jupyter-client
 jupyter-console 
 jupyter-core 
-jupyterlab==2.2.6
+jupyterlab
 jupyterlab-pygments 
 jupyterlab-server
 keyring
