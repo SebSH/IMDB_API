@@ -37,7 +37,6 @@ clyent
 colorama 
 conda
 conda-build
-conda-package-handling 
 conda-verify
 constantly
 contextlib2
