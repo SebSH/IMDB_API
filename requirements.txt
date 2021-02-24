@@ -250,8 +250,6 @@ tornado
 tqdm
 traitlets 
 Twisted
-typed-ast
-typing-extensions 
 tzlocal
 ujson 
 unicodecsv
